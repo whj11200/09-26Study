@@ -1,0 +1,15 @@
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\bin\Debug\net8.0\SeverCore.exe
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\bin\Debug\net8.0\SeverCore.deps.json
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\bin\Debug\net8.0\SeverCore.runtimeconfig.json
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\bin\Debug\net8.0\SeverCore.dll
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\bin\Debug\net8.0\SeverCore.pdb
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\obj\Debug\net8.0\SeverCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\obj\Debug\net8.0\SeverCore.AssemblyInfoInputs.cache
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\obj\Debug\net8.0\SeverCore.AssemblyInfo.cs
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\obj\Debug\net8.0\SeverCore.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\obj\Debug\net8.0\SeverCore.sourcelink.json
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\obj\Debug\net8.0\SeverCore.dll
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\obj\Debug\net8.0\refint\SeverCore.dll
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\obj\Debug\net8.0\SeverCore.pdb
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\obj\Debug\net8.0\SeverCore.genruntimeconfig.cache
+C:\Users\YONSAI\Documents\09-26Study\Sever\SeverCore\obj\Debug\net8.0\ref\SeverCore.dll
