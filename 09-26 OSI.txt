@@ -1,12 +1,6 @@
 네트워크 기초 서버구현
 
-솔라디 5원칙대해 서술
-코딩: 데드락 이 걸려있는 코드를 데드락 해결하는 코딩
 
-스핀락
-ContextSwitching
-AutoRestEvent
-ManualResetEvent
 
 
 
